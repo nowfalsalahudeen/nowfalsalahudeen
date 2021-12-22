@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi there 👋 I am a passionate and 7 years experienced Android Developer (Native & Flutter) with a profound interest in innovation and love pushing mobile technologies to their limits.
+
 <!--
 **nowfalsalahudeen/nowfalsalahudeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
