@@ -20,7 +20,7 @@ I'm Nowfal Salahudeen! I'm a **Android Developer**:iphone:, looking to solve **r
 [![Github](https://img.shields.io/badge/-nowfalsalahudeen-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/nowfalsalahudeen)
 
 <!-- Sample Dev class image -->
-<!-- <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" /> -->
+<img src="https://raw.githubusercontent.com/nowfalsalahudeen/nowfalsalahudeen/main/dev_nowfal.png" alt="dev_nowfal" align="right" width="500" />
 
 ### 💼  Things that I'm currently working on: 
 * Coding and building native android and flutter apps  Web:iphone: Development
